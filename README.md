@@ -1,5 +1,5 @@
 # Stocker
-
+This is a homework for AI Course in National Taiwan Ocean University.
 
 
 
