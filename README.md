@@ -1,7 +1,7 @@
 # Stocker
-Stocker tutorial on [都會阿嬤](https://weikaiwei.com/ ) https://weikaiwei.com/ 
 
-The code is based on [WillKoehrsen/Data-Analysis/stocker](https://github.com/WillKoehrsen/Data-Analysis/tree/master/stocker)
+
+
 
 ## Reference:
 1. Will Koehrsen. "Stock Prediction in Python - Towards Data Science"
